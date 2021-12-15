@@ -75,20 +75,19 @@ You can download from [GitHub Releases](https://github.com/MHProDev/MHDDoS/relea
 
 **Video's**
 
-* Aparat: https://www.aparat.com/v/bHcP9
+* Aparat: https://www.pornhub.com/
 * YouTube : Coming soon..
 
 **toturial**
 
-* Aprat : https://aparat.com/v/XPn5Z
-* YouTube : https://youtu.be/mZilAOkLKK8
----
+* Aprat : https://www.pornhub.com
+* YouTube : https://iyotube.com
 
 **Clone and Install Script**
 
 ```console
-git clone https://github.com/MHProDev/MHDDoS.git
-cd MHDDoS
+git clone https://github.com/Squidi-X/DosPorDos
+cd DosPorDos
 pip3 install -r requirements.txt
 ```
 
